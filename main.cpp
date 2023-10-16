@@ -32,7 +32,7 @@
 #include <string>
 #include <thread>
 
-#include "../../utils/CommandLineUtils.h"
+#include "CommandLineUtils.h"
 
 using namespace Aws::Crt;
 using namespace Aws::Iotidentity;
